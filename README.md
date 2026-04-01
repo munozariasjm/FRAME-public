@@ -1,6 +1,6 @@
 # Fidelity-Resolved Affine Matrix Emulator (FRAME)
 
-Code accompanying the paper: *Linking Nuclear Electromagnetic Moments to Nuclear Interactions* ([arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)).
+Code accompanying the paper: *Linking Electromagnetic Moments to Nuclear Interactions with a Global Physics-Driven Machine-Learning Emulator* ([arXiv:2603.26905](https://arxiv.org/abs/2603.26905)).
 
 FRAME is a global, physics-constrained emulator that maps low-energy constants (LECs) of chiral effective field theory, nuclear identifiers (Z, N), and fidelity (e_max) to nuclear observables:
 
@@ -145,10 +145,10 @@ To add data for a new isotopic chain:
 
 ```bibtex
 @article{munoz2025linking,
-  title   = {Linking Nuclear Electromagnetic Moments to Nuclear Interactions},
+  title   = {Linking Electromagnetic Moments to Nuclear Interactions with a Global Physics-Driven Machine-Learning Emulator},
   author  = {Munoz, Jose M. and Belley, Antoine and Ekstr{\"o}m, Andreas and Hagen, Gaute and Holt, Jason D. and Garcia Ruiz, Ronald F.},
-  year    = {2025},
-  eprint  = {XXXX.XXXXX},
+  year    = {2026},
+  eprint  = {2603.26905},
   archivePrefix = {arXiv},
   primaryClass  = {nucl-th},
 }
