@@ -155,7 +155,7 @@ To add data for a new isotopic chain:
 ```
 If you have any questions, encounter issues, or would like to collaborate, please contact:
 
-**Jose M. Munoz** (jmmunoz [at] mit [dot] edu)
+**Jose M. Munoz** (josemm [at] mit [dot] edu)
 
 
 ---
